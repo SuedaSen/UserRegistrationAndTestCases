@@ -3,6 +3,7 @@
 ##
 
 ➡️   **In test cases, I used JUNIT** <br/> 
+➡️   **I used OOP techniques.** <br/> 
 ➡️   **Also it includes main class** <br/> 
 
 
