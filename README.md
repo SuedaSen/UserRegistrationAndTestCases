@@ -6,6 +6,6 @@
 ➡️   **Also it includes main class** <br/> 
 
 
-**Test Screen ** <br/>
+**Test Screen** <br/>
 
 ![Alt Text](https://i.hizliresim.com/aoqOM9.jpg)
